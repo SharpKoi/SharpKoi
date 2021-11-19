@@ -10,6 +10,7 @@
 - 🎯 I’m pursuing a graduate degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sharpkoi1222@gmail.com](mailto:sharpkoi1222@gmail.com) or [yufeng.sc06@nycu.edu.tw](mailto:yufeng.sc06@nycu.edu.tw)
+- ⚡ 好好笑，這自介太炫了8
 
 **My Github Stats**
 
