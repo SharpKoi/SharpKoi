@@ -14,7 +14,7 @@
 
 **Languages and Tools**  
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharpkoi&theme=monokai" width="600px"></img>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharpkoi&theme=monokai"></img>
 
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
