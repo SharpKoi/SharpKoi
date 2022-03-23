@@ -5,7 +5,7 @@
 
 **About Me**
 - 💼 I’m currently working as a Applied Mathematic student.
-- 🌱 I’m currently exploring machine learning / deep learning.
+- 🌱 I’m currently exploring Deep Reinforcement Learning and Java Spring Boot.
 - 🥰 My interests are AI, NLP, minecraft development, and webapp integrations.
 - 🎯 I’m pursuing a graduate degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
@@ -39,4 +39,4 @@
 
 <br />
 
-_Last Edited on: 2021.11.19_
+_Last Edited on: 2021.03.23_
