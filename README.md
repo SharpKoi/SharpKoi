@@ -6,7 +6,7 @@
 **About Me**
 - 💼 I’m currently studying Applied Mathematic in NYCU.
 - 🌱 I’m currently exploring Deep Reinforcement Learning and Golang.
-- 🥰 My interests are deep learning and application design.
+- 🥰 My interests are NLP, deep learning and application design.
 - 🎯 I’m pursuing a backend or AI engineer internship.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sharpkoi1222@gmail.com](mailto:sharpkoi1222@gmail.com) or [yufeng.sc06@nycu.edu.tw](mailto:yufeng.sc06@nycu.edu.tw)
