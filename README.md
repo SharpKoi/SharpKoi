@@ -1,5 +1,5 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> 
-<h3> Hey 👋, I'm Sharpkoi!</h3
+<h3> Hey 👋, I'm Sharpkoi!</h3>
 
 <br />
 
@@ -10,7 +10,7 @@
 - 🎯 I’m pursuing a backend or AI engineer internship.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sharpkoi1222@gmail.com](mailto:sharpkoi1222@gmail.com) or [yufeng.sc06@nycu.edu.tw](mailto:yufeng.sc06@nycu.edu.tw)
-- ⚡ 好好笑，這自介太炫了8
+- 🎨 My avatar is designed by my friend He Shi, you can visit her [instagram](https://www.instagram.com/heshi_huan/) or [facebook](https://www.facebook.com/profile.php?id=100013065575606) to see more amazing works!
 
 **My Github Stats**
 
