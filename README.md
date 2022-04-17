@@ -7,7 +7,7 @@
 - 💼 I’m currently studying Applied Mathematic in NYCU.
 - 🌱 I’m currently exploring Deep Reinforcement Learning and Golang.
 - 🥰 My interests are NLP, deep learning and application design.
-- 🎯 I’m pursuing a backend or AI engineer internship.
+- 🎯 I’m seeking a backend or AI engineer internship.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sharpkoi1222@gmail.com](mailto:sharpkoi1222@gmail.com) or [yufeng.sc06@nycu.edu.tw](mailto:yufeng.sc06@nycu.edu.tw)
 - 🎨 My avatar is designed by my friend He Shi, you can visit her [instagram](https://www.instagram.com/heshi_huan/) or [facebook](https://www.facebook.com/profile.php?id=100013065575606) to see more amazing works!
