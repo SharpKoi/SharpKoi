@@ -14,7 +14,7 @@
 
 **My Github Stats**  
 
-[![Sharpkoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpkoi&count_private=true&show_icons=true&theme=github)](https://github.com/sharpkoi/github-readme-stats)
+[![Sharpkoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpkoi&count_private=true&show_icons=true&rank_icon=github&theme=github)](https://github.com/sharpkoi/github-readme-stats)
 
 **Languages and Tools**  
 
