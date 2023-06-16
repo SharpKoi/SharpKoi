@@ -5,9 +5,9 @@
 
 **About Me**
 - 💼 I’m currently studying AIG in NYCU.
-- 🌱 I’m currently exploring Deep Reinforcement Learning and Time Series Unsupervised Clustering.
-- 🥰 My interests are NLP, deep learning and application design.
-- 🎯 I’m seeking a backend or AI engineer internship.
+- 🌱 I’m currently exploring Reinforcement Learning and Time Series Unsupervised Clustering.
+- 🥰 My interests are NLP, ML and application development.
+- 🎯 I’m doing research on Autoimmune Disease Progression Modeling.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sharpkoi1222@gmail.com](mailto:sharpkoi1222@gmail.com) or [yufeng.ee11@nycu.edu.tw](mailto:yufeng.ee11@nycu.edu.tw)
 
@@ -32,4 +32,4 @@
 
 <br />
 
-_Last Edited on: 2021.04.17_
+_Last Edited on: 2023.06.17_
