@@ -5,9 +5,9 @@
 
 **About Me**
 - 💼 I’m currently studying AIG in NYCU.
-- 🌱 I’m currently exploring Reinforcement Learning and Time Series Unsupervised Clustering.
 - 🥰 My interests are NLP, ML and application development.
-- 🎯 I’m doing research on Autoimmune Disease Progression Modeling.
+- 🌱 I’m currently exploring blockchain and smart contract dev.
+- 🎯 I’m doing research on disease progression modeling, which is my research topic in DHLab.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sharpkoi1222@gmail.com](mailto:sharpkoi1222@gmail.com) or [yufeng.ee11@nycu.edu.tw](mailto:yufeng.ee11@nycu.edu.tw)
 
